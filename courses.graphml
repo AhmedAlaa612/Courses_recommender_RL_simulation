@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="width" attr.type="long"/>
+<key id="d1" for="node" attr.name="size" attr.type="long"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="02-24-00101">
+  <data key="d0">Linear Algebra</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00102">
+  <data key="d0">Calculus</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00103">
+  <data key="d0">Introduction to Computer Systems</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00104">
+  <data key="d0">Introduction to Data Sciences</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00105">
+  <data key="d0">Programming I</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00106">
+  <data key="d0">Probability and Statistics I</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00107">
+  <data key="d0">Discrete Structures</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00108">
+  <data key="d0">Data Structures and Algorithms</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00109">
+  <data key="d0">Introduction to Artificial Intelligence</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00110">
+  <data key="d0">Programming II</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00201">
+  <data key="d0">Probability and Statistics II</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00202">
+  <data key="d0">Introduction to Databases</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00203">
+  <data key="d0">Numerical Computations</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01201">
+  <data key="d0">Advanced Calculus</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01202">
+  <data key="d0">Data Science Methodology</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00204">
+  <data key="d0">Cloud Computing</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00205">
+  <data key="d0">Machine Learning</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00206">
+  <data key="d0">Data Mining and Analytics</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01203">
+  <data key="d0">Data Science Tools and Software</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01204">
+  <data key="d0">Regression Analysis</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01301">
+  <data key="d0">Stochastic Processes</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01302">
+  <data key="d0">Design and Analysis of Experiments</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01303">
+  <data key="d0">Data Visualization Tools</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01304">
+  <data key="d0">Data Computation and Analysis</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01305">
+  <data key="d0">Survey Methodology</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01306">
+  <data key="d0">Computing Intensive Statistical Methods</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01401">
+  <data key="d0">Big Data Analytics</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01402">
+  <data key="d0">Introduction to Social Networks</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01403">
+  <data key="d0">Simulations</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01405">
+  <data key="d0">Social Data Analytics</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01406">
+  <data key="d0">Distributed Data Analysis</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01407">
+  <data key="d0">Stream Processing</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01409">
+  <data key="d0">Convex Optimization</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01410">
+  <data key="d0">Non-Linear and Combinatorial Optimization</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01411">
+  <data key="d0">Multivariate Statistical Analysis</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01412">
+  <data key="d0">Bayesian Statistics</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01413">
+  <data key="d0">Data Compression Techniques</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01414">
+  <data key="d0">Concurrent Algorithms and Data Structures</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01415">
+  <data key="d0">Distributed Database Systems</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-01416">
+  <data key="d0">Advanced Database Systems</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00301">
+  <data key="d0">Software Engineering</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00302">
+  <data key="d0">Systems Analysis and Design</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00303">
+  <data key="d0">Algorithm Design</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00304">
+  <data key="d0">Distributed Processing</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00305">
+  <data key="d0">Mobile Programming</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00306">
+  <data key="d0">Web Programming</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00307">
+  <data key="d0">Operating Systems</data>
+  <data key="d1">10</data>
+</node>
+<node id="02-24-00308">
+  <data key="d0">Computer Networks</data>
+  <data key="d1">10</data>
+</node>
+<edge source="02-24-00101" target="02-24-00203">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00101" target="02-24-01301">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00101" target="02-24-01405">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00101" target="02-24-01409">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00101" target="02-24-01410">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00102" target="02-24-01201">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00103" target="02-24-00109">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00103" target="02-24-00304">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00103" target="02-24-00307">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00103" target="02-24-00308">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00104" target="02-24-01202">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00108">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00110">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00202">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-01203">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-01401">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-01403">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00305">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00306">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00307">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00105" target="02-24-00308">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00106" target="02-24-00201">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00106" target="02-24-01403">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-00204">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-01407">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-01410">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-01413">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-01414">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-00303">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00108" target="02-24-00304">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00109" target="02-24-00205">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00110" target="02-24-00301">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-00206">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01203">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01204">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01301">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01302">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01305">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01306">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01402">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01405">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01411">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00201" target="02-24-01412">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00202" target="02-24-01406">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00202" target="02-24-01415">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00202" target="02-24-01416">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00203" target="02-24-01409">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-01201" target="02-24-01409">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-01202" target="02-24-01203">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-01202" target="02-24-01303">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00204" target="02-24-01406">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00205" target="02-24-01304">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00205" target="02-24-01401">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00205" target="02-24-01405">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00206" target="02-24-01304">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00206" target="02-24-01401">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00206" target="02-24-01406">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-00206" target="02-24-01407">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-01203" target="02-24-01303">
+  <data key="d2">1</data>
+</edge>
+<edge source="02-24-01402" target="02-24-01405">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>
