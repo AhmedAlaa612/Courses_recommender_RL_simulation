@@ -31,3 +31,8 @@ pip install -r requirements.txt
   streamlit run app.py
 ```
 
+
+## How to Use
+
+- set the number of students and number of episodes
+- click on Run simulation button
