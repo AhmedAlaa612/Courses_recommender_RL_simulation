@@ -33,6 +33,6 @@ pip install -r requirements.txt
 
 
 ## How to Use
-
+- visit https://coursesrecommenderrlsimulation-rvxp8ve95z9vappyvewsmh.streamlit.app/ or run the app locally
 - set the number of students and number of episodes
 - click on Run simulation button
